@@ -1,0 +1,16 @@
+{
+"user":[
+  {"id": 1, "name": "Homero Simpson", "username": "DonHomerone", "email": "donhomerone@homerone.com", "image": "https://i.ibb.co/ZH73560/cody.jpg"},
+  {"id": 2, "name": "Marge Simpson", "username": "Margerine", "email": "donhomerone@homerone.com", "image": "https://i.ibb.co/ZH73560/cody.jpg"},
+  {"id": 3, "name": "Bart Simpson", "username": "ElBarto", "email": "donhomerone@homerone.com", "image": "https://i.ibb.co/ZH73560/cody.jpg"},
+],
+  "posts": [
+    { "id": 1, "title": "Post 1", "body":"XXXX", "userId":1 },
+    { "id": 2, "title": "Post 2", "body":"YYYY", "userId":2 },
+    { "id": 3, "title": "Post 3", "body":"ZZZZ", "userId":3 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
